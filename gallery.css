@@ -34,7 +34,7 @@ font-size: 30px;
 }
 
 video {
-  display:hidden;
+  display:none;
 }
 
 .thumbnail span img{ /*CSS for enlarged image*/
